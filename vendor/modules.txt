@@ -1,5 +1,4 @@
-## explicit
-github.com/cornfeedhobo/ssh-keydgen v0.4.1
+# github.com/cornfeedhobo/ssh-keydgen v0.4.1
 ## explicit
 github.com/cornfeedhobo/ssh-keydgen/keygen
 github.com/cornfeedhobo/ssh-keydgen/slowseeder
